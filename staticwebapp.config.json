@@ -1,0 +1,17 @@
+{
+  "routes": [
+    {
+      "route": "test123",
+      "methods": [
+        "head",
+        "get"
+      ],
+      "rewrite": "./23",
+      "redirect": "./2345",
+      "statusCode": 301,
+      "allowedRoles": [
+        "an"
+      ]
+    }
+  ]
+}
