@@ -12,6 +12,9 @@
       "allowedRoles": [
         "an"
       ]
+    },
+    {
+      "route": "ds"
     }
   ]
 }
